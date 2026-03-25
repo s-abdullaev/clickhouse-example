@@ -16,7 +16,8 @@ build/
 uv.lock
 
 # IDE
-.vscode/
+.vscode/*
+!.vscode/launch.json
 .idea/
 *.iml
 
